@@ -3,8 +3,8 @@
 Defines class baseModel
 
 """
-import models
 import uuid
+import models
 from datetime import datetime
 
 
